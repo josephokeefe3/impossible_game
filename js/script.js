@@ -1,4 +1,6 @@
-SDVSDgv
-adsg
-sDG
-ASDG
+$(document).ready(function(){
+  
+  
+  
+  
+});

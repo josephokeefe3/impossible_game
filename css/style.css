@@ -1,0 +1,15 @@
+.wrapper {
+  width: 98.5%;
+  background-color: #6699FF;
+  border-radius: 40px;
+  height: 800px;
+  margin-top: 12.5px;
+  margin-bottom: 10px;
+  margin-left: 12.5px;
+  margin-right: 12.5px;
+  position: relative;
+}
+
+.game-screen {
+  
+}
