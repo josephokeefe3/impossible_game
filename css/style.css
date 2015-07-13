@@ -1,12 +1,12 @@
 .wrapper {
-  width: 98.5%;
+  width: 96%;
   background-color: #6699FF;
   border-radius: 40px;
   height: 800px;
   margin-top: 12.5px;
   margin-bottom: 10px;
-  margin-left: 12.5px;
-  margin-right: 12.5px;
+  margin-left: 2%;
+  margin-right: 2%;
   position: relative;
 }
 
@@ -14,18 +14,30 @@
   width: 60%;
   margin-left: 20%;
   margin-right: 20%;
+<<<<<<< HEAD
   margin-top: 30px;
+=======
+  margin-top: -30px;
+>>>>>>> 99d5cb66f2d10326bf4ab32ab8e9a93a02673e19
   height: 100px;
   position: absolute;
 }
 
 .title-bar h1 {
   text-align: center;
+<<<<<<< HEAD
+=======
+  font-family: 'Fredoka One', cursive;
+  color: #476BB3;
+  font-size: 5em;
+  font-weight: 200;
+>>>>>>> 99d5cb66f2d10326bf4ab32ab8e9a93a02673e19
 }
 
 .game-screen {
   width: 80%;
   height: 600px;
+<<<<<<< HEAD
   border: 5px solid white;
   margin-left: 10%;
   margin-right: 10%;
@@ -66,3 +78,12 @@
    border-top-color: #476bb3;
    background: #476bb3;
    }
+=======
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 150px;
+  border-radius: 40px;
+  background-color: #B3B3B3;
+  position: absolute;
+}
+>>>>>>> 99d5cb66f2d10326bf4ab32ab8e9a93a02673e19
