@@ -21,5 +21,10 @@
 }
 
 .game-screen {
-  
+  width: 80%;
+  height: 600px;
+  border: 5px solid white;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: #005CE6;
 }
